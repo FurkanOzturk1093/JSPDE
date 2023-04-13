@@ -1,0 +1,28 @@
+.Form {
+  display: flex;
+}
+.Form p {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  color: black;
+}
+.Form h2 {
+  background-color: rgb(219, 213, 213);
+  padding: 1rem 0;
+  color: rgb(49, 46, 46);
+}
+.Form input {
+  width: 15rem;
+  height: 1.5rem;
+}
+.Form select {
+  width: 15.5rem;
+  height: 1.5rem;
+}
+.Form p button {
+  color: white;
+  background-color: #154c79;
+  border: none;
+  padding: 0.5rem;
+}

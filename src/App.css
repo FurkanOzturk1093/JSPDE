@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  gap: 4rem;
+  align-items: baseline;
+  justify-content: space-around;
+}

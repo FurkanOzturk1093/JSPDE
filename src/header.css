@@ -1,0 +1,12 @@
+button {
+  color: white;
+  background-color: #154c79;
+  border: none;
+  padding: 0.5rem;
+}
+.header {
+  background-color: rgb(219, 213, 213);
+  padding: 1rem;
+  display: flex;
+  gap: 2rem;
+}

@@ -1,0 +1,13 @@
+td {
+  border-style: groove;
+}
+th {
+  background-color: #154c79;
+  color: white;
+  border-style: groove;
+}
+table {
+  padding: 4rem;
+  border-collapse: collapse;
+  border-style: groove;
+}
